@@ -299,3 +299,7 @@
 **Links to work:**
 1. [Flight Deal Finder - Code](projects/day040/flight-deal-finder.py)
 2. [Flight Club - Live Demo](https://repl.it/@gabrielmdr/flight-club)
+
+### Day 41: 2021 February 11
+
+**Today's Progress:** Recalled to introductory HTML and some tags as heading tags (`<h1>` to `<h6>`), `<p>` and `<a>`.
