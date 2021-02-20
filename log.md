@@ -303,3 +303,12 @@
 ### Day 41: 2021 February 11
 
 **Today's Progress:** Recalled to introductory HTML and some tags as heading tags (`<h1>` to `<h6>`), `<p>` and `<a>`.
+
+### Day 42: 2021 February 12
+
+**Today's Progress:** Created my curriculum website.
+
+**Links to work:**
+1. [Curriculum - Code](projects/day042/index.html)
+2. [Curriculum - Live Demo](https://gabrielmdr.github.io/curriculum)
+3. [Curriculum - Repo](https://github.com/gabrielmdr/curriculum)
