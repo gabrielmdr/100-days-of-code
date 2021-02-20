@@ -312,3 +312,7 @@
 1. [Curriculum - Code](projects/day042/index.html)
 2. [Curriculum - Live Demo](https://gabrielmdr.github.io/curriculum)
 3. [Curriculum - Repo](https://github.com/gabrielmdr/curriculum)
+
+### Day 43: 2021 February 13
+
+**Today's Progress:** Recalled to introductory CSS.
