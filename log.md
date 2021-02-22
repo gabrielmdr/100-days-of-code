@@ -316,3 +316,12 @@
 ### Day 43: 2021 February 13
 
 **Today's Progress:** Recalled to introductory CSS.
+
+### Day 44: 2021 February 14
+
+**Today's Progress:** Improved my personal website using CSS.
+
+**Links to work:**
+1. [Personal Website - Code](projects/day044/index.html)
+2. [Personal Website - Live Demo](https://gabrielmdr.github.io/personal-website/)
+3. [Personal Website - Repo](https://github.com/gabrielmdr/personal-website)
