@@ -325,3 +325,11 @@
 1. [Personal Website - Code](projects/day044/index.html)
 2. [Personal Website - Live Demo](https://gabrielmdr.github.io/personal-website/)
 3. [Personal Website - Repo](https://github.com/gabrielmdr/personal-website)
+
+### Day 45: 2021 February 15
+
+**Today's Progress:** Used BeautifulSoup library to extract the top 100 movies to watch data from a website.
+
+**Links to work:**
+1. [Top 100 Movies - Code](projects/day045/top100-movies.html)
+2. [Top 100 Movies - Live Demo](https://repl.it/@gabrielmdr/top100-movies)
