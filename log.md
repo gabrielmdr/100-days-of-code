@@ -333,3 +333,10 @@
 **Links to work:**
 1. [Top 100 Movies - Code](projects/day045/top100-movies.html)
 2. [Top 100 Movies - Live Demo](https://repl.it/@gabrielmdr/top100-movies)
+
+### Day 46: 2021 February 16
+
+**Today's Progress:** I used BeautifulSoup to scrape the list of songs from Billboard top 100 and used Spotify API along with Spotipy library to create a playlist containing those songs.
+
+**Links to work:**
+1. [Music Time Machine - Code](projects/day046/music-time-machine.py)
