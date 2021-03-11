@@ -340,3 +340,10 @@
 
 **Links to work:**
 1. [Music Time Machine - Code](projects/day046/music-time-machine.py)
+
+### Day 47: 2021 February 17
+
+**Today's Progress:** I used BeautifulSoup to scrape the price of a product from Amazon and SMTPLib to send email.
+
+**Links to work:**
+1. [Amazon Price Tracker - Code](projects/day047/amazon-price-tracker.py)
