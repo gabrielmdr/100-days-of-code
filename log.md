@@ -347,3 +347,10 @@
 
 **Links to work:**
 1. [Amazon Price Tracker - Code](projects/day047/amazon-price-tracker.py)
+
+### Day 48: 2021 February 18
+
+**Today's Progress:** I used Selenium to play an idle clicker game ([Cookie Clicker](https://orteil.dashnet.org/cookieclicker/)).
+
+**Links to work:**
+1. [Cookie Clicker - Code](projects/day048/cookie-clicker.py)
