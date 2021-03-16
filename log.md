@@ -354,3 +354,10 @@
 
 **Links to work:**
 1. [Cookie Clicker - Code](projects/day048/cookie-clicker.py)
+
+### Day 49: 2021 February 19
+
+**Today's Progress:** I used Selenium to create a bot to save LinkedIn jobs.
+
+**Links to work:**
+1. [Auto Job Application - Code](projects/day049/auto-job-application.py)
