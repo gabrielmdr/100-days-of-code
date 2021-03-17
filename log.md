@@ -361,3 +361,10 @@
 
 **Links to work:**
 1. [Auto Job Application - Code](projects/day049/auto-job-application.py)
+
+### Day 50: 2021 February 20
+
+**Today's Progress:** I used Selenium to create a bot to like people at Tinder.
+
+**Links to work:**
+1. [Auto Tinder Swipping Bot - Code](projects/day050/auto-tinder-swipping-bot.py)
