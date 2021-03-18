@@ -368,3 +368,10 @@
 
 **Links to work:**
 1. [Auto Tinder Swipping Bot - Code](projects/day050/auto-tinder-swipping-bot.py)
+
+### Day 51: 2021 February 21
+
+**Today's Progress:** I used Selenium to create a bot to make an internet speed test and complain to the internet provider if it is lower than expected.
+
+**Links to work:**
+1. [Twitter Complaint Bot - Code](projects/day051/twitter-complaint-bot.py)
