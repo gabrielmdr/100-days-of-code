@@ -375,3 +375,10 @@
 
 **Links to work:**
 1. [Twitter Complaint Bot - Code](projects/day051/twitter-complaint-bot.py)
+
+### Day 52: 2021 April 19
+
+**Today's Progress:** I used Selenium to create a bot to follow people on Instagram
+
+**Links to work:**
+1. [Instagram Follower Bot - Code](projects/day052/instagram-follower-bot.py)
